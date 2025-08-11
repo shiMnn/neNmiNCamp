@@ -1,0 +1,87 @@
+# ========================
+# Unity GitIgnore Template
+# ========================
+
+# OS固有のファイル
+.DS_Store
+Thumbs.db
+
+# Unity生成ファイル（Library, Temp, Logs, Build）
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# MemoryCapture
+[Mm]emoryCaptures/
+
+# Asset Store
+[Aa]sset[Ss]tore/
+
+# Auto-generated Jetbrains Rider plugin
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.user
+*.unityproj
+*.booproj
+
+# Visual Studio cache
+.vs/
+
+# Crash Reports
+sysinfo.txt
+
+# LightmapやGI関連
+LightmapSnapshot/
+LightmapSettings.asset
+*.lighting
+
+# Timelineキャッシュ
+*.playable
+
+# Unity Collaborate
+.collab/
+
+# Build出力
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.xcscmblueprint
+*.apk
+*.ipa
+*.app
+
+# Addressablesビルドキャッシュ
+[Aa]ssets/AddressableAssetsData/*/AssetGroups/*.bin
+ServerData/
+
+# StreamingAssets生成物（必要に応じてコメントアウト）
+# StreamingAssets/
+
+# TextMesh Pro
+[Aa]ssets/TextMesh Pro/**/Resources/*.asset
+
+# Packagesキャッシュ
+[Pp]ackages/com.unity.package-manager-ui/
+[Pp]ackages/packages-lock.json
+
+# 特定のアセットを無視
+Allsky/
+Bakery/
+BakeryLightmaps/
+Magic Light Probes/
+NatureManufacture Assets/
+
+# その他キャッシュや一時ファイル
+*.tmp
+*.temp
+*.bak
+*.swp
+*.lock
