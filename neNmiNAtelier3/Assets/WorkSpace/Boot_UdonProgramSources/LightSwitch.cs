@@ -34,5 +34,5 @@ public class LightSwitch : UdonSharpBehaviour
                 _pps[_ppsIndex].SetActive(true);
             }
         }
-        }
     }
+}
