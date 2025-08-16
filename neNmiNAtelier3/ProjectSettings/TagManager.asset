@@ -28,8 +28,8 @@ TagManager:
   - HardwareObjects
   - reserved4
   - reserved3
-  - 
-  - 
+  - PPSTarget
+  - NotPPS
   - 
   - 
   - 
