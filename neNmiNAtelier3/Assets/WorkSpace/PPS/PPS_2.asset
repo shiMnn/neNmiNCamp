@@ -92,10 +92,10 @@ MonoBehaviour:
     value: 0
   postExposure:
     overrideState: 1
-    value: 0.5
+    value: 2
   contrast:
     overrideState: 1
-    value: 3.2
+    value: 0
   mixerRedOutRedIn:
     overrideState: 0
     value: 100
@@ -1381,7 +1381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b94fcd11afffcb142908bfcb1e261fba, type: 3}
   m_Name: MotionBlur
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -1446,7 +1446,7 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 4
+    value: 1.5
   aperture:
     overrideState: 1
     value: 18.8
@@ -1477,7 +1477,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 0.72
+    value: 0.25
   color:
     overrideState: 1
     value: {r: 0.12887149, g: 0.13770615, b: 0.1509434, a: 1}
@@ -1526,13 +1526,13 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1.01
+    value: 0.45
   threshold:
     overrideState: 1
     value: 0.8
   softKnee:
     overrideState: 1
-    value: 0.734
+    value: 1
   clamp:
     overrideState: 0
     value: 65472
@@ -1544,7 +1544,7 @@ MonoBehaviour:
     value: 0
   color:
     overrideState: 1
-    value: {r: 0.8726415, g: 0.9777091, b: 1, a: 1}
+    value: {r: 1, g: 1, b: 1, a: 1}
   fastMode:
     overrideState: 0
     value: 0
@@ -1567,7 +1567,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40b924e2dad56384a8df2a1e111bb675, type: 3}
   m_Name: Vignette
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
